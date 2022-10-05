@@ -1,0 +1,21 @@
+
+h1{
+    color:greenyellow;
+}
+
+body{
+    background-color:black;
+}
+
+
+#formsec{
+    background-color: rgb(143, 182, 85);
+    text-align: center;
+}
+
+.center {
+    margin: auto;
+    width: 50%;
+    border: 3px solid rgb(0, 81, 128);
+    padding: 10px;
+  }

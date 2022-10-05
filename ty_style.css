@@ -1,0 +1,14 @@
+h1{
+    color: greenyellow;
+    background-color: black;
+}
+body{
+    background-color: rgb(149, 194, 81);
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 5%%;
+  }

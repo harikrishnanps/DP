@@ -1,0 +1,17 @@
+h1{
+    color: red;
+}
+
+body{
+    background-color: black;
+}
+
+#ico{
+    background-color: greenyellow;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 5%%;
+  }
